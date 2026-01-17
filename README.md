@@ -21,13 +21,15 @@
 - Advanced React patterns & hooks
 - Sorting algorithms & optimization techniques
 
-  ### 🏆 Projects & Activities
-- Solving algorithmic challenges on **LeetCode**
-- Building interactive web applications with React
-- Academic projects in data structures and algorithms using C++
-  
 `const techStack = {
   learningResources: ["The Odin Project", "Roadmap"],
   dailyPractice: ["LeetCode", "Codewars"]
 }`
 
+
+
+### 🏆 Projects & Activities
+- Solving algorithmic challenges on **LeetCode**
+- Building interactive web applications with React
+- Academic projects in data structures and algorithms using C++
+  
