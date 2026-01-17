@@ -1,15 +1,33 @@
-## Hi there, I'm Sham Al Safarany 👋
+## 👋 Hi, I'm Sham Al Safarany
 
-- 🌱 An _aspitiring_ software engineer
-- 🌱 I’m currently learning Frontend development...
-- 🌱 A second year **Computer Science** student at Arab International Univeristy
+🎓 **Computer Science** student at Arab International University (2nd Year)  
+💻 Aspiring **Software Engineer** & **Frontend Developer**  
+🚀 Passionate about learning to build clean, efficient, and user-friendly applications and websites
 
-### Languages
-- 🌱 HTML - CSS - Javascript
-- 🌱 C++
-- 🌱 Java
-- 🌱 SQL
-- 🌱 Frameworks: React
+### 💼 Technical Skills
+
+**Frontend Development:**
+- **Languages:** HTML, CSS, JavaScript (ES6+)
+- **Frameworks:** React.js
+- **Tools:** Git, GitHub, VS Code
+
+**Programming Languages:**
+- C++ (Data Structures & Algorithms)
+- Java (OOP)
+- SQL (Database Management)
+- R (Statistical Computing)
+
+**Currently Learning:**
+- Advanced React patterns & hooks
+- Sorting algorithms & optimization techniques
+
+  ### 🏆 Projects & Activities
+- Solving algorithmic challenges on **LeetCode**
+- Building interactive web applications with React
+- Academic projects in data structures and algorithms using C++
   
-`const Info = {}`
+`const techStack = {
+  learningResources: ["The Odin Project", "Roadmap"],
+  dailyPractice: ["LeetCode", "Codewars"]
+}`
 
